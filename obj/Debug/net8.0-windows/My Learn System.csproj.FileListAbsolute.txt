@@ -1,0 +1,41 @@
+C:\Users\danie\Documents\GitHub\My Learn System\bin\Debug\net8.0-windows\My Learn System.exe
+C:\Users\danie\Documents\GitHub\My Learn System\bin\Debug\net8.0-windows\My Learn System.deps.json
+C:\Users\danie\Documents\GitHub\My Learn System\bin\Debug\net8.0-windows\My Learn System.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\My Learn System\bin\Debug\net8.0-windows\My Learn System.dll
+C:\Users\danie\Documents\GitHub\My Learn System\bin\Debug\net8.0-windows\My Learn System.pdb
+C:\Users\danie\Documents\GitHub\My Learn System\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\danie\Documents\GitHub\My Learn System\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\danie\Documents\GitHub\My Learn System\obj\Debug\net8.0-windows\My Learn System_MarkupCompile.cache
+C:\Users\danie\Documents\GitHub\My Learn System\obj\Debug\net8.0-windows\My Learn System_MarkupCompile.lref
+C:\Users\danie\Documents\GitHub\My Learn System\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\danie\Documents\GitHub\My Learn System\obj\Debug\net8.0-windows\My Learn System.g.resources
+C:\Users\danie\Documents\GitHub\My Learn System\obj\Debug\net8.0-windows\My Learn System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\My Learn System\obj\Debug\net8.0-windows\My Learn System.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\My Learn System\obj\Debug\net8.0-windows\My Learn System.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\My Learn System\obj\Debug\net8.0-windows\My Learn System.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\My Learn System\obj\Debug\net8.0-windows\My Learn System.dll
+C:\Users\danie\Documents\GitHub\My Learn System\obj\Debug\net8.0-windows\refint\My Learn System.dll
+C:\Users\danie\Documents\GitHub\My Learn System\obj\Debug\net8.0-windows\My Learn System.pdb
+C:\Users\danie\Documents\GitHub\My Learn System\obj\Debug\net8.0-windows\My Learn System.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\My Learn System\obj\Debug\net8.0-windows\ref\My Learn System.dll
+C:\Users\danie\Documents\GitHub\My-Learn-System\bin\Debug\net8.0-windows\My Learn System.exe
+C:\Users\danie\Documents\GitHub\My-Learn-System\bin\Debug\net8.0-windows\My Learn System.deps.json
+C:\Users\danie\Documents\GitHub\My-Learn-System\bin\Debug\net8.0-windows\My Learn System.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\My-Learn-System\bin\Debug\net8.0-windows\My Learn System.dll
+C:\Users\danie\Documents\GitHub\My-Learn-System\bin\Debug\net8.0-windows\My Learn System.pdb
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn System_MarkupCompile.cache
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn System_MarkupCompile.lref
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn System.g.resources
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn System.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn System.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn System.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn System.dll
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\refint\My Learn System.dll
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn System.pdb
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn System.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\ref\My Learn System.dll
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn System.sourcelink.json

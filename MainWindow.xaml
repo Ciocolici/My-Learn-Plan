@@ -1,0 +1,46 @@
+﻿<Window x:Class="My_Learn_System.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:My_Learn_System"
+        mc:Ignorable="d"
+        Title="My Learn Plan" Height="230" Width="400"
+        Icon="/icons8-erinnerungen-50.ico"
+        ResizeMode="NoResize"
+        WindowStyle="SingleBorderWindow"
+        Loaded="Window_Loaded">
+    <Grid x:Name="MainGrid">
+        <Grid.Background>
+            <ImageBrush ImageSource="/paper-1074131_1920.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" FontFamily="Old English Text MT" FontSize="14">Monday:</Label>
+        <Label Grid.Row="1" Grid.Column="0" FontFamily="Old English Text MT" FontSize="14">Tuesday:</Label>
+        <Label Grid.Row="2" Grid.Column="0" FontFamily="Old English Text MT" FontSize="14">Wednesday:</Label>
+        <Label Grid.Row="3" Grid.Column="0" FontFamily="Old English Text MT" FontSize="14">Thursday:</Label>
+        <Label Grid.Row="4" Grid.Column="0" FontFamily="Old English Text MT" FontSize="14">Friday:</Label>
+        <Label Grid.Row="5" Grid.Column="0" FontFamily="Old English Text MT" FontSize="14">Saturday:</Label>
+        <Label Grid.Row="6" Grid.Column="0" FontFamily="Old English Text MT" FontSize="14">Sunday:</Label>
+        <TextBox x:Name="MondayTextBox" Grid.Row="0" Grid.Column="1" FontFamily="Kristen ITC" FontWeight="Bold"/>
+        <TextBox x:Name="TuesdayTextBox" Grid.Row="1" Grid.Column="1" FontFamily="Kristen ITC" FontWeight="Bold"/>
+        <TextBox x:Name="WednesdayTextBox" Grid.Row="2" Grid.Column="1" FontFamily="Kristen ITC" FontWeight="Bold"/>
+        <TextBox x:Name="ThursdayTextBox" Grid.Row="3" Grid.Column="1" FontFamily="Kristen ITC" FontWeight="Bold"/>
+        <TextBox x:Name="FridayTextBox" Grid.Row="4" Grid.Column="1" FontFamily="Kristen ITC" FontWeight="Bold"/>
+        <TextBox x:Name="SaturdayTextBox" Grid.Row="5" Grid.Column="1" FontFamily="Kristen ITC" FontWeight="Bold"/>
+        <TextBox x:Name="SundayTextBox" Grid.Row="6" Grid.Column="1" FontFamily="Kristen ITC" FontWeight="Bold"/>
+    </Grid>
+</Window>

@@ -1,2 +1,2 @@
 # My Learn Plan
- A simple application I created as an experiment, to add learning tasks for each day of the week
+ A simple application that allows you add learn tasks for each day of the week

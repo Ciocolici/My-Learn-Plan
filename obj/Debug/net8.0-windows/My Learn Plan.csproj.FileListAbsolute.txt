@@ -1,0 +1,20 @@
+C:\Users\danie\Documents\GitHub\My-Learn-System\bin\Debug\net8.0-windows\My Learn Plan.exe
+C:\Users\danie\Documents\GitHub\My-Learn-System\bin\Debug\net8.0-windows\My Learn Plan.deps.json
+C:\Users\danie\Documents\GitHub\My-Learn-System\bin\Debug\net8.0-windows\My Learn Plan.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\My-Learn-System\bin\Debug\net8.0-windows\My Learn Plan.dll
+C:\Users\danie\Documents\GitHub\My-Learn-System\bin\Debug\net8.0-windows\My Learn Plan.pdb
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn Plan_MarkupCompile.cache
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn Plan_MarkupCompile.lref
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn Plan.g.resources
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn Plan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn Plan.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn Plan.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn Plan.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn Plan.dll
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\refint\My Learn Plan.dll
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn Plan.pdb
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\My Learn Plan.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\My-Learn-System\obj\Debug\net8.0-windows\ref\My Learn Plan.dll

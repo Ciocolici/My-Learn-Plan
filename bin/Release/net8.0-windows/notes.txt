@@ -1,0 +1,7 @@
+MondayTextBox:Plakos Akademie
+TuesdayTextBox:U-Form Karteikarten
+WednesdayTextBox:Anki Noel Lang Karteikarten
+ThursdayTextBox:Prüfungsvorbereitungbuch
+FridayTextBox:Prüfungsvorbereitungbuch
+SaturdayTextBox:Alte IHK Teil 1 Prüfungen
+SundayTextBox:Alte IHK Teil 1 Prüfungen

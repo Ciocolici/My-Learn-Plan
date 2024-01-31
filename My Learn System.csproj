@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>My_Learn_System</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="icons8-erinnerungen-50.ico" />
+    <None Remove="paper-1074131_1920.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="icons8-erinnerungen-50.ico" />
+    <Resource Include="paper-1074131_1920.jpg" />
+  </ItemGroup>
+
+</Project>

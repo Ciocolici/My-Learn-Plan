@@ -1,0 +1,7 @@
+MondayTextBox:Cioco
+TuesdayTextBox:Ciocolici
+WednesdayTextBox:Ciocolici2
+ThursdayTextBox:CiocoliciDDDD
+FridayTextBox:Ciocoliciaaaaaaaaaaa
+SaturdayTextBox:Ciocoliciiiiiiiiii
+SundayTextBox:CiocoliciiiiiiiiiiCiocoliciiiiiiiiiiCiocoliciiiiiiiiii
