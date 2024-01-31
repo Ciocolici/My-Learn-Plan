@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\Documents\\GitHub\\My-Learn-System\\My Learn System.csproj": {}
+    "C:\\Users\\danie\\Documents\\GitHub\\My-Learn-Plan\\My Learn System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\Documents\\GitHub\\My-Learn-System\\My Learn System.csproj": {
+    "C:\\Users\\danie\\Documents\\GitHub\\My-Learn-Plan\\My Learn System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\Documents\\GitHub\\My-Learn-System\\My Learn System.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\Documents\\GitHub\\My-Learn-Plan\\My Learn System.csproj",
         "projectName": "My Learn System",
-        "projectPath": "C:\\Users\\danie\\Documents\\GitHub\\My-Learn-System\\My Learn System.csproj",
+        "projectPath": "C:\\Users\\danie\\Documents\\GitHub\\My-Learn-Plan\\My Learn System.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\Documents\\GitHub\\My-Learn-System\\obj\\",
+        "outputPath": "C:\\Users\\danie\\Documents\\GitHub\\My-Learn-Plan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",

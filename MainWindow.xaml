@@ -35,12 +35,12 @@
         <Label Grid.Row="4" Grid.Column="0" FontFamily="Old English Text MT" FontSize="14">Friday:</Label>
         <Label Grid.Row="5" Grid.Column="0" FontFamily="Old English Text MT" FontSize="14">Saturday:</Label>
         <Label Grid.Row="6" Grid.Column="0" FontFamily="Old English Text MT" FontSize="14">Sunday:</Label>
-        <TextBox x:Name="MondayTextBox" Grid.Row="0" Grid.Column="1" FontFamily="Kristen ITC" FontWeight="Bold"/>
-        <TextBox x:Name="TuesdayTextBox" Grid.Row="1" Grid.Column="1" FontFamily="Kristen ITC" FontWeight="Bold"/>
-        <TextBox x:Name="WednesdayTextBox" Grid.Row="2" Grid.Column="1" FontFamily="Kristen ITC" FontWeight="Bold"/>
-        <TextBox x:Name="ThursdayTextBox" Grid.Row="3" Grid.Column="1" FontFamily="Kristen ITC" FontWeight="Bold"/>
-        <TextBox x:Name="FridayTextBox" Grid.Row="4" Grid.Column="1" FontFamily="Kristen ITC" FontWeight="Bold"/>
-        <TextBox x:Name="SaturdayTextBox" Grid.Row="5" Grid.Column="1" FontFamily="Kristen ITC" FontWeight="Bold"/>
-        <TextBox x:Name="SundayTextBox" Grid.Row="6" Grid.Column="1" FontFamily="Kristen ITC" FontWeight="Bold"/>
+        <TextBox x:Name="MondayTextBox" Grid.Row="0" Grid.Column="1" FontFamily="Kristen ITC"/>
+        <TextBox x:Name="TuesdayTextBox" Grid.Row="1" Grid.Column="1" FontFamily="Kristen ITC"/>
+        <TextBox x:Name="WednesdayTextBox" Grid.Row="2" Grid.Column="1" FontFamily="Kristen ITC"/>
+        <TextBox x:Name="ThursdayTextBox" Grid.Row="3" Grid.Column="1" FontFamily="Kristen ITC"/>
+        <TextBox x:Name="FridayTextBox" Grid.Row="4" Grid.Column="1" FontFamily="Kristen ITC"/>
+        <TextBox x:Name="SaturdayTextBox" Grid.Row="5" Grid.Column="1" FontFamily="Kristen ITC"/>
+        <TextBox x:Name="SundayTextBox" Grid.Row="6" Grid.Column="1" FontFamily="Kristen ITC"/>
     </Grid>
 </Window>
